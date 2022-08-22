@@ -3,12 +3,8 @@
 ## Principais comandos e suas aplicações
 
 
-**Iniciar o git localmente :**<br>
-<code>
-&nbsp;<br>
-git init<br>
-&nbsp;
-</code>
+### Iniciar o git localmente :###
+<code>git init</code>
 
 
 
