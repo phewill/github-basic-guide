@@ -20,7 +20,7 @@
 ### Staged ###
 <p>Arquivo no stage quer dizer um arquivo que esta pronto para ser feito o commit</p>
 
-===
+----------
 
 #### Iniciar o git localmente ####
 > git init
