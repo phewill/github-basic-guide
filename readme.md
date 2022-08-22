@@ -3,7 +3,7 @@
 ## Principais comandos e suas aplicações
 
 
-**Iniciar o git localmente :**
+**Iniciar o git localmente :**<br>
 <code>git init</code>
 
 
