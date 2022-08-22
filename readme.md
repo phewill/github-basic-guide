@@ -5,8 +5,8 @@
 
 **Iniciar o git localmente :**<br>
 <code>
-&nbsp;
-git init
+&nbsp;<br>
+git init<br>
 &nbsp;
 </code>
 
