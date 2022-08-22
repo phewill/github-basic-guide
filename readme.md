@@ -1,9 +1,9 @@
 ## Principais comandos e suas aplicações ##
 
-### Iniciar o git localmente ### <br>
+### Iniciar o git localmente ###
 * git init
 
-### Mandar arquivos para o repositório no github ### <br>
+### Mandar arquivos para o repositório no github ###
 * git push
 
 **Atualizar repositório local com conteúdo do repositório remoto no github** <br>
