@@ -1,7 +1,6 @@
 ## Principais comandos e suas aplicações ##
 
-#### Iniciar o git localmente ####
-
+Iniciar o git localmente
 git init
 
 Mandar arquivos para o github
