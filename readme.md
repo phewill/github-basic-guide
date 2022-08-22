@@ -1,13 +1,13 @@
 ## Principais comandos e suas aplicações ##
 
 #### Iniciar o git localmente ####
-* git init
+> git init
 
 #### Mandar arquivos para o repositório no github ####
-git push
+> git push
 
 #### Atualizar repositório local com conteúdo do repositório remoto no github ####
-git pull
+> git pull
 
 **Verificar status dos arquivos** <br>
 git status
@@ -50,10 +50,3 @@ closes ou fixed
 
 **Fazer a branch master pegar as alterações de outra branch** <br>
 git merge nome-outra-branch
-
-
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
