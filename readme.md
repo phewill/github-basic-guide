@@ -1,8 +1,10 @@
-## Principais comandos e suas aplicações ##
+## Guia básico do git e seus Comandos ##
+
+<p>Git é uma ferramenta de controle de versão, ela ajuda os desenvolvedores a trabalhar com mais organização, de forma que modificações de um desenvolvedor não afetam o que outro está trabalhando, até que código esteja pronto para ser integrado ao código principal, mesmo para quem programa sozinho é uma excelente ferramenta já que ajuda a controlar suas modificações de forma que a saber o que está sendo modificado, com possibilidade de restaurar versões anteriores, algo que seria trabalhoso de fazer sem o git.</p>
 
 ### Sobre os estados dos arquivos podemos dividir em quatro estados ###
 
-![aaaa](/img/git-lifecycle.png "lifecycle")
+![git-lifecycle](/img/git-lifecycle.png "git-lifecycle")
 
 * Untracked
 <p>Arquivo ainda não foi identificado como um arquivo a ser usado no git</p>
