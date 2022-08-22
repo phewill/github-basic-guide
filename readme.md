@@ -8,19 +8,19 @@
 
 ![git-lifecycle](/img/git-lifecycle.png "git-lifecycle")
 
-### Untracked ###
+#### Untracked ####
 <p>Arquivo ainda não foi identificado como um arquivo a ser usado no git</p>
 
-### Unmodified ###
+#### Unmodified ####
 <p>Arquivo não modificado</p>
 
-### Modified ###
+#### Modified ####
 <p>Arquivo modificado</p>
 
-### Staged ###
+#### Staged ####
 <p>Arquivo no stage quer dizer um arquivo que esta pronto para ser feito o commit</p>
 
-----------
+## Comandos básicos ##
 
 #### Iniciar o git localmente ####
 > git init
@@ -46,6 +46,8 @@
 > git commit -am 'mensagem' arquivo
 
 ------
+
+## Sobre branchs ##
 
 #### Para criar uma nova branch ####
 > git branch nova-branch
