@@ -11,16 +11,9 @@
 | Estado    | Descrição |
 | --------- | --------- |
 | Untracked | Arquivo ainda não foi identificado como um arquivo a ser usado no git. |
-| Unmodified | Arquivo não modificado |     
-| Modified   | Arquivo modificado |
-| Staged     | Arquivo no stage quer dizer um arquivo que esta pronto para ser feito o commit |
-
-
-#### Modified ####
-<p>Arquivo modificado</p>
-
-#### Staged ####
-<p>Arquivo no stage quer dizer um arquivo que esta pronto para ser feito o commit</p>
+| Unmodified | Arquivo não modificado. |     
+| Modified   | Arquivo modificado. |
+| Staged     | Quer dizer o arquivo que está pronto para ser feito o commit. |
 
 ## Comandos básicos ##
 
