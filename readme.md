@@ -1,10 +1,10 @@
-# <p style="text-align:center"> Guia básico de git e github </p> #
+# Guia básico de git e github #
 
-## Principais comandos e suas aplicações
+## Principais comandos e suas aplicações ##
 
 ### Iniciar o git localmente ###
 
-<code> git init </code>
+<p> git init </p>
 
 Mandar arquivos para o github
 git push
