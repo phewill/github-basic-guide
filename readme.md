@@ -1,5 +1,20 @@
 ## Principais comandos e suas aplicações ##
 
+### Sobre os estados dos arquivos podemos dividir em quatro estados ###
+
+* Untracked
+<p>Arquivo ainda não foi identificado como um arquivo a ser usado no git</p>
+
+* Unmodified
+<p>Arquivo não modificado</p>
+
+* Modified
+<p>Arquivo modificado</p>
+
+* Staged
+<p>Arquivo no stage quer dizer um arquivo que esta pronto para ser feito o commit</p>
+
+
 #### Iniciar o git localmente ####
 > git init
 
@@ -37,7 +52,7 @@
 #### Criar e entrar na branch ####
 > git cheackout -b nome-branch
 
-#### Para indicar que commit é relacionado a uma issue colocar #+numero da issue ####
+#### Relacionar commit a uma issue colocar #+numero da issue na msg####
 > git commit -m "meu commit #12"
 
 #### Para fazer push em uma branch diferente da master ####
