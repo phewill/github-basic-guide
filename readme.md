@@ -1,6 +1,8 @@
 ## Guia básico do git e seus Comandos ##
 
-<p>Git é uma ferramenta de controle de versão, ela ajuda os desenvolvedores a trabalhar com mais organização, de forma que modificações de um desenvolvedor não afetam o que outro está trabalhando, até que código esteja pronto para ser integrado ao código principal, mesmo para quem programa sozinho é uma excelente ferramenta já que ajuda a controlar suas modificações de forma que a saber o que está sendo modificado, com possibilidade de restaurar versões anteriores, algo que seria trabalhoso de fazer sem o git.</p>
+<p>Git é uma ferramenta de controle de versão, ajuda os desenvolvedores a trabalharem com mais organização e controle sobre o que está sendo modificado</p>
+
+<p>Atrávez do git um programador pode fazer modificações em um código, de forma que não afetam o que outro está trabalhando. mesmo para quem programa sozinho é uma excelente ferramenta já que ajuda a controlar suas modificações de forma a saber o que está sendo modificado, com possibilidade de restaurar versões anteriores, algo que seria trabalhoso de fazer sem o git.</p>
 
 ### Sobre os estados dos arquivos podemos dividir em quatro estados ###
 
