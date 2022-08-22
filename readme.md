@@ -1,6 +1,6 @@
 ## Guia básico do git e seus Comandos ##
 
-<p>Falando de forma resumida [Git](https://git-scm.com/doc) é uma ferramenta de controle de versão, ajuda os desenvolvedores a trabalharem com mais organização e controle sobre o que está sendo modificado.</p>
+<p>Falando de forma resumida git é uma ferramenta de controle de versão, ajuda os desenvolvedores a trabalharem com mais organização e controle sobre o que está sendo modificado.</p>
 
 <p>Atrávez do git um programador pode fazer modificações em um código, de forma que não afetam o que outro está trabalhando, mesmo para quem programa sozinho é uma excelente ferramenta já que ajuda a controlar suas modificações de forma a saber o que está sendo modificado, com possibilidade de restaurar versões anteriores, algo que seria trabalhoso de fazer sem o git.</p>
 
