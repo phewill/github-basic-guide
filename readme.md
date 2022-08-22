@@ -4,7 +4,9 @@
 
 
 **Iniciar o git localmente :**<br>
-<code>git init</code>
+<code>
+git init
+</code>
 
 
 
