@@ -1,4 +1,4 @@
-# <center>Guia básico de git e github</center>
+# <center> Guia básico de git e github </center>
 
 ## Principais comandos e suas aplicações
 
