@@ -8,6 +8,10 @@
 
 ![git-lifecycle](/img/git-lifecycle.png "git-lifecycle")
 
+| Estado    | Descrição |
+| --------- | --------- |
+| Untracked | Arquivo ainda não foi identificado como um arquivo a ser usado no git. |      
+
 #### Untracked ####
 <p>Arquivo ainda não foi identificado como um arquivo a ser usado no git</p>
 
