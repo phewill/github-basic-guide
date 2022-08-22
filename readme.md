@@ -1,12 +1,10 @@
-# <center> Guia básico de git e github </center>
+# <p style="text-align:center"> Guia básico de git e github </p> #
 
 ## Principais comandos e suas aplicações
 
+### Iniciar o git localmente ###
 
-### Iniciar o git localmente : ###
-<code>git init</code>
-
-
+<code> git init </code>
 
 Mandar arquivos para o github
 git push
@@ -28,7 +26,6 @@ git commit -m 'mensagem' arquivo
 
 add e comitar
 git commit -am 'mensagem' arquivo
-
 
 -------------------------
 
