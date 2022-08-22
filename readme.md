@@ -2,6 +2,8 @@
 
 ### Sobre os estados dos arquivos podemos dividir em quatro estados ###
 
+![aaaa](/img/git-lifecycle.png "lifecycle")
+
 * Untracked
 <p>Arquivo ainda não foi identificado como um arquivo a ser usado no git</p>
 
