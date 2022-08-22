@@ -1,10 +1,8 @@
-# Guia básico de git e github #
-
 ## Principais comandos e suas aplicações ##
 
-### Iniciar o git localmente ###
+#### Iniciar o git localmente ####
 
-<p> git init </p>
+git init
 
 Mandar arquivos para o github
 git push
