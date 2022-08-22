@@ -8,10 +8,10 @@
 
 ![git-lifecycle](/img/git-lifecycle.png "git-lifecycle")
 
-* Untracked
+### Untracked ###
 <p>Arquivo ainda não foi identificado como um arquivo a ser usado no git</p>
 
-* Unmodified
+#### Unmodified ####
 <p>Arquivo não modificado</p>
 
 * Modified
