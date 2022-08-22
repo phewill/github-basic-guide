@@ -1,6 +1,10 @@
-Iniciar o git localmente 
+# Guia básico de git e github
 
-git init
+## Principais comandos e suas aplicações
+
+
+> :memo: **Iniciar o git localmente :** git init.
+
 
 
 Mandar arquivos para o github
